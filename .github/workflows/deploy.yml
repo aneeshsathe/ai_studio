@@ -44,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "/ai_studio/ai_studio/_build/html/"
+          path: "/ai_studio/ai_studio/ai_studio/_build/html/"
 
       # Deploy the book's HTML to GitHub Pages
       - name: Deploy to GitHub Pages
