@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / .DS_Store files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Book build output
+_build/
+.sphinx/
+
+# Virtual environment
+venv/
+env/
+.pyenv/
+.virtualenv/
+
+# Python debug logs
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# Other files and folders to ignore
+.cache/
+.jekyll-cache/
+.jekyll-metadata
+_site/
+.sass-cache/
