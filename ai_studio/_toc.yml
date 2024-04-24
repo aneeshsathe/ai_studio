@@ -1,10 +1,24 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-format: jb-book
-root: intro
-chapters:
-- file: Agentic Regression
-- file: Task Decomposition Using Two Agents
-  - file: AI Auto Blog Post Logistic Regression
+# format: jb-book
+# root: intro
+# chapters:
+# - file: Agentic Regression
+# - file: Task Decomposition Using Two Agents
+# - file: AI Auto Blog Post Logistic Regression
 # - file: test
+
+format: jb-book
+root: index
+parts:
+  - caption: Simple Work with Agents
+    numbered: True  # Only applies to chapters in Part 1.
+    chapters:
+    - file: Agentic Regression
+  - caption: Task Decomposition
+    chapters:
+    - file: Task Decomposition Using Two Agents
+      title: Task Decomposition Using Two Agents
+    - file: AI Auto Blog Post Logistic Regression
+      title: AI Auto Blog Post Logistic Regression
