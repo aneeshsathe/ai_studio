@@ -5,6 +5,6 @@ format: jb-book
 root: intro
 chapters:
 - file: Agentic Regression
-# - file: notebooks
-# - file: markdown-notebooks
+- file: Task Decomposition Using Two Agents
+  - file: AI Auto Blog Post Logistic Regression
 # - file: test
