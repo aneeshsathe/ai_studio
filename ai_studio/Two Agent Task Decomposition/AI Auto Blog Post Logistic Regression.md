@@ -1,5 +1,5 @@
 # Blog Post: Analyzing the Iris Dataset with Logistic Regression
-
+*Note: this blog post was generated almost entirely by AI*
 ## Introduction
 The Iris dataset is one of the most popular datasets among data science enthusiasts and beginners alike. Consisting of 150 samples from three different species of Iris (Iris Setosa, Iris Versicolor, and Iris Virginica), the dataset contains measurements of sepals and petals that we will explore and model to predict species classification based on physical attributes.
 
