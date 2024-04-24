@@ -18,7 +18,7 @@ parts:
     - file: Agentic Regression
   - caption: Task Decomposition
     chapters:
-    - file: Task Decomposition Using Two Agents
+    - file: "Two Agent Task Decomposition/Task Decomposition Using Two Agents.ipynb"
       title: Task Decomposition Using Two Agents
-    - file: AI Auto Blog Post Logistic Regression
+    - file: "ai_studio/"Two Agent Task Decomposition/AI Auto Blog Post Logistic Regression.md"
       title: AI Auto Blog Post Logistic Regression
