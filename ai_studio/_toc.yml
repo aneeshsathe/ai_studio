@@ -10,15 +10,14 @@
 # - file: test
 
 format: jb-book
-root: index
+root: intro
 parts:
   - caption: Simple Work with Agents
-    numbered: True  # Only applies to chapters in Part 1.
     chapters:
     - file: Agentic Regression
   - caption: Task Decomposition
     chapters:
-    - file: "Two Agent Task Decomposition/Task Decomposition Using Two Agents.ipynb"
+    - file: Two Agent Task Decomposition/Task Decomposition Using Two Agents.ipynb
       title: Task Decomposition Using Two Agents
-    - file: "ai_studio/"Two Agent Task Decomposition/AI Auto Blog Post Logistic Regression.md"
+    - file: Two Agent Task Decomposition/AI Auto Blog Post Logistic Regression.md
       title: AI Auto Blog Post Logistic Regression
