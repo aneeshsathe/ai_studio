@@ -21,3 +21,7 @@ parts:
       title: Task Decomposition Using Two Agents
     - file: Two Agent Task Decomposition/AI Auto Blog Post Logistic Regression.md
       title: AI Auto Blog Post Logistic Regression
+    - file: Group Task Decomp/group_chat_task_decomp.ipynb
+      title: Task Decomposition Using Group of Agents to solve Image Classification Task
+    - file: Group Task Decomp/Group_chat
+      title: AI Auto Blog Post - Image Classification Deep Learning
