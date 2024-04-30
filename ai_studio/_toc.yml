@@ -13,22 +13,22 @@ format: jb-book
 root: intro
 chapters:
 - file: 1 Agentic Regression/Agentic Regression.ipynb
-  title: Agentic Regression
+  title: 1 Agentic Regression
 
 - file: 2 Two Agent Task Decomposition/Task Decomposition Using Two Agents.ipynb
-  title: Task Decomposition Using Two Agents
+  title: 2 Task Decomposition Using Two Agents
   sections:
     - file: 2 Two Agent Task Decomposition/AI Auto Blog Post Logistic Regression.md
-      title: AI Auto Blog Post - Logistic Regression
+      title: 2.1 AI Auto Blog Post - Logistic Regression
 
 - file: 3 Group Task Decomp/group_chat_task_decomp.ipynb
-  title: Task Decomposition Using Group of Agents to solve Image Classification Task
+  title: 3 Task Decomposition Using Group of Agents to solve Image Classification Task
   sections:
     - file: 3 Group Task Decomp/Group_chat.md
-      title: AI Auto Blog Post - Image Classification Deep Learning
+      title: 3.1 AI Auto Blog Post - Image Classification Deep Learning
 
 - file: 4 Agentic RAG/Agentic_RAG.ipynb
-  title: Helping AI agents answer questions in your narrow domain using RAG
+  title: 4 Helping AI agents answer questions in your narrow domain using RAG
 
 # parts:
 #   - caption: Simple Work with Agents
