@@ -29,6 +29,8 @@ chapters:
 
 - file: 4 Agentic RAG/Agentic_RAG.ipynb
   title: 4 Helping AI agents answer questions in your narrow domain using RAG
+- file: 5 Knowledge Graphs RAG/FHIR-RAG.ipynb
+  title: 5 RAG with FHIR data Powered by Knowledge Graphs on FHIR data
 
 # parts:
 #   - caption: Simple Work with Agents
