@@ -31,6 +31,8 @@ chapters:
   title: 4 Helping AI agents answer questions in your narrow domain using RAG
 - file: 5 Knowledge Graphs RAG/FHIR-RAG.ipynb
   title: 5 RAG with FHIR data Powered by Knowledge Graphs on FHIR data
+- file: 6 Agentic KG explore for diseases/primekg
+  title: 6 Reconstructing a disease knowledge graph and exploring it agentically
 
 # parts:
 #   - caption: Simple Work with Agents
