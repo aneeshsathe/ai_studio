@@ -34,7 +34,7 @@ chapters:
 - file: 6 Agentic KG explore for diseases/primekg
   title: 6 Reconstructing a disease knowledge graph and exploring it agentically
 - file: 7 Auto KG Creation with LLMs/PDF_to_kg_using_OpenAI.ipynb
-title: 7 Auto Creating Knowledge Graphs from PDF files using LLMs
+  title: 7 Auto Creating Knowledge Graphs from PDF files using LLMs
 
 # parts:
 #   - caption: Simple Work with Agents
