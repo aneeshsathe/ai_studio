@@ -33,7 +33,7 @@ chapters:
   title: 5 RAG with FHIR data Powered by Knowledge Graphs on FHIR data
 - file: 6 Agentic KG explore for diseases/primekg
   title: 6 Reconstructing a disease knowledge graph and exploring it agentically
-- file: 7 Auto KG Creation with LLMs/PDF_to_kg_using_OpenAI.ipynb
+- file: 7 Auto KG Creation with LLMs/PDF_to_kg_using_OpenAI
   title: 7 Auto Creating Knowledge Graphs from PDF files using LLMs
 
 # parts:
